@@ -18,8 +18,9 @@ html {
  html body{
      /*this is just getting rid of the white border on pages*/
     margin: 0;
+    height: 100%;
     padding: 0;
-	
+	overflow: auto;
     /*i think this makes room for the footer bar - gives nice spacing*/
     padding-bottom: 6rem;
 }
