@@ -171,7 +171,7 @@ li a {
 }
 
 li a:hover{
-    background-color: #111;
+    background-color: #b300b3;
 }
 
 
@@ -187,7 +187,7 @@ li a:hover{
     left: 0;
 	/* padding-bottom: 0; */
 	margin-bottom: 0;
-    background-color: #333;
+    background-color: #990099!important;
 }
 
 
