@@ -174,7 +174,9 @@ li a:hover{
     background-color: #b300b3;
 }
 
-
+ul{
+    list-style-type: none;
+}
 
 
 /*footer code*/
