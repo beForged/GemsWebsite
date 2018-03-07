@@ -127,7 +127,11 @@ p{
 	margin-right: 20%;
 	}
 
-
+.butt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 /*This is the Navbar code*/
 .navbar .navbar-div ul{
