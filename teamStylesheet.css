@@ -100,10 +100,15 @@ p{
     list-style-type: none;
     margin: 0;
 	margin-left: 0;
+
 	padding-left: 0;
     padding: 0;
     background-color: #333;
     overflow:hidden;
+}
+
+.navbar{
+    border: 0 !important;
 }
 
 li{

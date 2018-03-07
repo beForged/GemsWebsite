@@ -36,6 +36,10 @@ html {
     text-align:center;
 }
 
+.container-fluid{
+    padding: 0 !important;
+    margin: 0;
+}
 /*
 *body formatting and shit
 */
