@@ -8,7 +8,7 @@ html {
     /*some fuckery here to make the footer behave correctly depending on the amount of stuff on the page.*/
     min-height:100%;
     position:relative;
-    
+
     /*background-color:#665F5C;*/
 }
 
@@ -126,14 +126,16 @@ p{
 
 
 /*This is the Navbar code*/
-.navbar ul{
+.navbar .navbar-div ul{
 	position: relative;
     list-style-type: none;
     margin: 0 !important;
-
     padding: 0 !important;
     background-color: #333;
     overflow:hidden;
+}
+.navbar{
+    border: 0 !important;
 }
 
 .navbar li{
